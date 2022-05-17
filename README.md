@@ -10,8 +10,6 @@
 
 ## Pasta do primeiro modulo: git-github
 
-*Nesse local ha o meu primeiro projeto na pasta "livro-receitas" onde foi realizado o desenvolvimento de um livro de receitas simples para a introducao ao Git e GitHub*
-
-[Link para a pagina de receitas](/tqi_bootcamp/git_github/livro-receita/README.md)
+*Nesse local ha o meu primeiro projeto na pasta "livro-receita" onde foi realizado o desenvolvimento de um livro de receitas simples para a introducao ao Git e GitHub*
 
 ----

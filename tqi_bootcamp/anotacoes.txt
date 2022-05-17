@@ -1,0 +1,4 @@
+Nessa pasta serão criadas subpastas para inserção de conteúdos desenvolvidos durante o Bootcamp TQI Fullstack Developer através da plataforma da DIO.
+Primeiro módulo: Conteúdo de Abertura -> Introdução do bootcamp e cursos voltados ao Git e GitHub, conteúdos e desafios desse módulo estarão disponiveis na pasta "git_github".
+
+Ao decorrer da minha jornada estarei alimentando essa anotação com meu desenvolvimento.
